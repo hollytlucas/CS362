@@ -1,2 +1,2 @@
 # CS362
-Mobile App Dev
+Software Engineering
